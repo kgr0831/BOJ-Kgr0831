@@ -9,4 +9,3 @@ input = sys.stdin.readline
 
 inputStr = input()
 
-
