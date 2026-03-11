@@ -9,3 +9,4 @@ input = sys.stdin.readline
 
 inputStr = input()
 
+print(*[inputStr.find(chr(i)) for i in range(97, 123)])
